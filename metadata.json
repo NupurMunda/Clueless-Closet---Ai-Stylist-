@@ -1,0 +1,7 @@
+{
+  "name": "Clueless Closet - AI Stylist",
+  "description": "A 90s-inspired vintage wardrobe manager and AI stylist that helps you find your essence, body type, and perfect outfits.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
